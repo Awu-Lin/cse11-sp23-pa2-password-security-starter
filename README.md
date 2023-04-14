@@ -1,7 +1,7 @@
 # CSE 11 Spring 2023 PA2 - Password Security
 **Due date: Thursday, April 20 @ 11:59PM PDT**
 
-There is an [FAQ post](add link) on Piazza. Please read that post first if you have any questions.
+There is an [FAQ post](https://piazza.com/class/lfx8rc63u25xd/post/63) on Piazza. Please read that post first if you have any questions.
 
 ## Provided Files
 - PasswordSecurity.java
